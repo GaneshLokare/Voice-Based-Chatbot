@@ -1,0 +1,3 @@
+# Ignore file types
+*.env
+*v_env
