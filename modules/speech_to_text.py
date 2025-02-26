@@ -10,5 +10,4 @@ class SpeechToText:
             model="whisper-1", 
             file=audio_file
         )
-        print(transcription.text)
         return transcription.text

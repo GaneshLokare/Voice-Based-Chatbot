@@ -3,3 +3,5 @@ Flask
 langchain_openai
 langchain
 openai
+flask-socketio
+eventlet
